@@ -34,7 +34,7 @@ Rubymine should then halt on the pow request as required.
 Note:
 This example assumes the POW_WORKERS variable is set to 1 (one).  If multiple workers are active you may get errors that ruby-debug-ide could not attach to a port already in use.
 
-Pow-worker / ruby-debug-ide / Rubymine remote debug client port mappings are therefore left as an exercise to the reader. So to, pow timeout parameters.
+Pow-worker / ruby-debug-ide / Rubymine remote debug client port mappings are therefore left as an exercise to the reader. So too, pow timeout parameters.
 
 ##### Lachlan Pitts ([parameme](mailto:github@parameme.com))
 
