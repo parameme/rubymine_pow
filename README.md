@@ -19,7 +19,7 @@ Add example preamble to config.ru of a pow-linked app
 
 `touch tmp/debug.txt`
 
-Load target project in Rubymine and construct a "Configuration" with your project name using the "Remote remote debug" defaults
+Load target project in Rubymine and construct a "Configuration" with your project name using the "Ruby remote debug" defaults
 
 Ensure an appropriate Rubymine breakpoint is set somewhere in your sinatra app
 
