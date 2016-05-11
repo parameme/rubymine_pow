@@ -39,5 +39,5 @@ Pow-worker / ruby-debug-ide / Rubymine remote debug client port mappings are the
 ##### Lachlan Pitts ([parameme](mailto:github@parameme.com))
 
 - [parameme@github](https://github.com/parameme)
-- [@pittlsr](https://twitter.com/pittslr)
+- [@parameme](https://twitter.com/parameme)
 - [Ennova](http://ennova.com.au)
